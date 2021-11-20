@@ -34,7 +34,7 @@ spec:
     spec:
       containers:
         - name: examen
-          image: lascencion/msmicroservice-luis-ascencion
+          image: lascencion/msmicroservice
           resources:
             limits:
               cpu: 500m
