@@ -77,7 +77,7 @@ class CustomerControllerTest {
     void getById() throws Exception {
         var c1 = Customer.builder()
                 .id(767)
-                .name("name_1")
+                .name("name_12")
                 .lastName("lastName_1")
                 .build();
 
